@@ -1,0 +1,84 @@
+# LJ640U34 项目 —— 授权与第三方内容声明
+
+本项目（Sharp LJ64EU34 / LJ640U34 EL 显示器驱动、上位机及配套资源）采用**分层授权**：
+**代码宽松授权、素材非商用授权、第三方内容另行声明**。本文件同时作为 `README` 中的版权说明使用。
+
+---
+
+## 1. 代码部分 —— MIT License
+
+**适用范围**：本仓库/项目内**自研**的固件、串口/USB 推流协议、上位机逻辑、
+构建脚本、HTML/JS 逻辑等**原创代码**。**不含**第三方库与第三方素材。
+
+```
+MIT License
+
+Copyright (c) 2026 <LIUZUN>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+**中文要点**：允许任何人使用、复制、修改、合并、发布、分发、再授权甚至销售本代码，
+前提是**保留以上版权声明与许可声明**。代码按"现状"提供，不附带任何保证。
+
+---
+
+## 2. 素材部分 —— CC BY-NC 4.0（署名-非商业性使用）
+
+**适用范围**：作者**自绘**的表情位图、图标、位图数据（如 `face_data/`、`icon_data/`
+中的资源、字体位图对照表等）——**仅限作者原创绘制部分**。
+
+采用 **知识共享 署名-非商业性使用 4.0 国际（CC BY-NC 4.0）** 许可协议：
+<https://creativecommons.org/licenses/by-nc/4.0/>
+
+**核心条款**：您被许可拷贝、再分发、改编本素材，前提是——
+- **署名**：必须标明原作者；
+- **非商业**：**不得用于任何商业目的**（不得出售、不得用于商业产品）；
+- 若您基于本素材再发布，不得附加超出本许可的额外限制。
+
+> 注意：CC 许可只适用于**作者自绘**的素材本身；它**不能**改变下方第 3 节
+> "角色形象版权归 Glitch" 这一事实，也不构成对角色形象的授权。
+
+---
+
+## 3. 第三方内容声明（不属于本 LICENSE 授权范围）
+
+### 3.1 角色形象
+本项目中的"无机杀手"（Murder Drones）角色形象（如 Cyn、Uzi、N、V 等）及相关商标、
+版权归 **Glitch Productions** 所有。本项目为**个人非商业粉丝自制**，与 Glitch Productions
+**无关**，亦非其官方或授权衍生品。角色形象的版权/演绎权**不在**本 LICENSE 授权范围内；
+本项目的素材仅按"个人学习、非商业交流"使用。
+
+### 3.2 字体
+单文件版本（`*_single.html`）中内嵌的字体，其许可各自独立，请遵循各字体原始许可
+（多为 OFL：允许嵌入与再分发，但**不得单独出售字体、不得更改字体名**）：
+- SmileySans（得意黑）
+- LXGWWenKai（霞鹜文楷）
+- Modern DOS
+- Codename Coder Free
+
+
+---
+
+## 4. 免责声明
+
+本项目按"现状"提供，不附带任何明示或暗示的保证（含适用性、可靠性）。
+使用本项目产生的任何风险与后果由使用者自行承担。
+
+---
